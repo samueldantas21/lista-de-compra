@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.box{
+
+
+    display: flex;
+
+
+
+    width: 22rem;
+    border-radius: 10px;
+    padding: 5px 10px;
+    border: none;
+    margin-bottom: 10px;
+    background-color: white;
+
+    
+
+    
+}
+.remover-item{
+    margin-left: 14rem;
+    
+    &:hover{
+        transform: scale(1.1);
+
+        
+       
+
+    }
+    
+}
+span{
+    padding-left: 3px;
+}
+.itemsADD{
+    padding-top:10px ;
+    
+}
+
+.botao-adicioanar{
+    
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    background-color: #ca3884;
+    border: none;
+    color: white;
+    
+    &:hover{
+        background-color: #A52C6B;
+
+    }
+    
+    
+    
+}
+#adicionar{
+    padding: 5px 0px 5px 10px  ;
+    padding-right: 3.5rem;
+    border-radius: 5px;
+    border: none;
+ 
+    
+
+    
+}
+.remove{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+
+    background-color:rgb(163, 5, 5);
+    color: aliceblue;
+    border-radius: 7px;
+    width: 22rem;
+    padding: 5px;
+    
+}
+.butaoo{
+    background: none;
+}
+.escopo{
+    border: 1px solid;
+
+    display: flex;
+    justify-content: center;
+   
+
+
+}
+.cai{
+    border:  1px solid ;
+    margin:30px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,0.3);
+   
+}
+
+ul{
+    list-style-type: none; 
+}
+.lista{
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+}
+.link {
+    margin-bottom:10px ;
+    
+}
+.link a{
+
+    
+    text-decoration: none;
+}
+.inp{
+    margin-bottom: 20px;
+}
