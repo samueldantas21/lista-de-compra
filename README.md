@@ -1,1 +1,3 @@
 meu primerio contato com javascript e para praticar crie essa lista de compra basica usando html csss e js,oq ela faz? quando a pessoa clicar em adicionar,adicionara um novo item na lista e quando clica na lixeira pra excluir o item aparecera uma menssaguem na tela perguntando se realmente quer excluir o iteml
+
+so nao esta responsivel mais ja estou construindo um com a interface mais organizada,obrigado
